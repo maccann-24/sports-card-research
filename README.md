@@ -1,0 +1,1 @@
+# Sports Card Database Research\n\nComprehensive research for building a sports card data aggregation platform.\n\n## Research Areas\n- eBay Sales API\n- PSA API\n- CardLadder Analysis\n- Database Architecture\n- Additional Data Sources\n- Market Intelligence
